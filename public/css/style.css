@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.full-screen {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(185deg, #bce5ff 0, #9db9f2 50%, #7e8fb3 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
